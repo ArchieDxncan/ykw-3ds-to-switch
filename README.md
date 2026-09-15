@@ -1,5 +1,7 @@
 # YKW 3DS to Switch Save Converter
 
+https://archiedxncan.github.io/ykw-3ds-to-switch/
+
 An experimental converter for moving a **Yo-kai Watch 1** Nintendo 3DS `.yw`
 save into the Nintendo Switch save layout.
 
@@ -62,20 +64,6 @@ some Linux distributions it is packaged separately as `python3-tk`.
 The web converter is completely static. It uses Pyodide to run the same Python
 converter locally inside the browser; selected saves are never uploaded.
 
-After uploading this repository to GitHub:
-
-1. Open **Settings → Pages**.
-2. Under **Build and deployment**, select **Deploy from a branch**.
-3. Select the default branch and the `/docs` folder.
-4. Save and wait for the published Pages URL.
-
-The web UI requires an internet connection to load Pyodide from jsDelivr.
-
-## Tests
-
-```bash
-python -m unittest discover -s tests -v
-```
 
 The public repository does not need to include personal 3DS saves. The bundled
 Switch template is sufficient for the template-validation tests; development
