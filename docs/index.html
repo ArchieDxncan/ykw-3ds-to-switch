@@ -9,9 +9,7 @@
 </head>
 <body>
   <main class="card">
-    <div class="eyebrow">LOCAL • PRIVATE • OPEN SOURCE</div>
     <h1>Yo-kai Watch 1<br><span>3DS → Switch</span></h1>
-    <p class="lede">Choose your decrypted-container-compatible <code>.yw</code> save. Conversion happens entirely in this browser; your save is never uploaded.</p>
     <label class="drop" id="drop">
       <input id="file" type="file" accept=".yw,application/octet-stream">
       <strong id="fileLabel">Choose a 3DS save</strong>
@@ -19,7 +17,7 @@
     </label>
     <button id="convert" disabled>Loading converter…</button>
     <p id="status" role="status">Preparing the local conversion engine.</p>
-    <aside><strong>Back up your saves.</strong> This experimental tool targets Yo-kai Watch 1 only. “Requests Completed” is a known pending record-mapping issue.</aside>
+    <aside><strong>Back up your saves.</strong>
   </main>
   <footer>Runs locally with Pyodide • No server upload</footer>
   <script src="https://cdn.jsdelivr.net/pyodide/v0.27.7/full/pyodide.js"></script>
