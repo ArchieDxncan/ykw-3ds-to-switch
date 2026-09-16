@@ -25,15 +25,12 @@ Information that exists only in the Nintendo Switch version is preserved where p
 2. Open the converter using the link above.
 3. Select your Yo-kai Watch 1 Nintendo 3DS save.
 4. Convert and download the new Nintendo Switch save.
-5. Keep your original save somewhere safe.
-
-Your selected save is processed on your device and is not uploaded.
+5. Move the save onto your emulator/cfw switch.
 
 ## Important information
 
-This converter is experimental, so some information may not transfer perfectly. The **Requests Completed** record is a known issue that still needs to be resolved.
+This converter is experimental, so some information may not transfer perfectly. The **Requests Completed** record is a known issue that still needs to be fixed.
 
-Always keep a backup and use only save data that you own.
 
 This project is not affiliated with Nintendo or LEVEL-5.
 
