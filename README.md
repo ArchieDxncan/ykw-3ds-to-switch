@@ -5,6 +5,10 @@ Move your **Yo-kai Watch 1** save data from Nintendo 3DS to Nintendo Switch.
 **Use the converter:**
 https://archiedxncan.github.io/ykw-3ds-to-switch/
 
+<img width="2214" height="2160" alt="1" src="https://github.com/user-attachments/assets/71548505-3067-4e1f-b034-c8f75f843454" />
+<img width="2160" height="2880" alt="2" src="https://github.com/user-attachments/assets/2c179634-060e-4ec8-b3d9-b1e226e2dba0" />
+<img width="2160" height="2880" alt="3" src="https://github.com/user-attachments/assets/8cdb82a3-b736-47d4-8621-0264912fe5ac" />
+
 ## What can be transferred
 
 The converter aims to carry over:
