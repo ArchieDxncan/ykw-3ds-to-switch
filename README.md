@@ -1,4 +1,4 @@
-# YKW 3DS to Switch Save Converter
+# Yo-Kai Watch 3DS to Switch Save Converter
 
 Move your **Yo-kai Watch 1** save data from Nintendo 3DS to Nintendo Switch.
 
